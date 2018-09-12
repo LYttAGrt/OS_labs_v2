@@ -1,0 +1,4 @@
+Enter 2 digits <digit1, space, digit2>4
+5
+5
+4

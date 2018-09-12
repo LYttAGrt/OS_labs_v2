@@ -1,0 +1,30 @@
+    1  whoami
+    2  hostname
+    3  man man
+    4  mkdir ~/week1
+    5  cd ~/week1
+    6  touch ex1.txt
+    7  touch ex2.txt
+    8  touch ex3.txt
+    9  touch ex4.txt
+   10  cd/usr
+   11  cd/
+   12  cd ~/usr
+   13  ls | sort -r /usr/bin > ex1/txt
+   14  ls | sort -r /usr/bin > ex1.txt
+   15  ls | --sort -r /usr/bin > ex1.txt
+   16  ls | sort -r /usr/bin > ex1.txt
+   17  ls > ex1.txt
+   18  ls | sort -r /usr/bin/ > ex1.txt
+   19  ls /usr/bin > ex1.txt
+   20  ls /usr/bin | sort -r > ex1.txt
+   21  ls /usr/bin | sort -r -k="gcc" > ex1.txt
+   22  ls /usr/bin | grep "gcc" | sort -r > ex1.txt
+   23  ls /usr/bin | grep "gcc" | sort -r
+   24  ls /usr/bin | grep "gcc"
+   25  grep "gcc" ls /usr/bin
+   26  ls /usr/bin | grep "a" | sort -r
+   27  ls /usr/bin | grep "gcc" | sort -r > ex1.txt
+   28  ls /usr/bin | grep "abc"
+   29  ls /usr/bin | sort -r
+   30  history > ex2.txt
