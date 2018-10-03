@@ -1,0 +1,38 @@
+// example A: new array < old one
+	int* arr = (int*) malloc(sizeof(int)*3);
+	arr[0] = 0;
+	arr[1] = 1;
+	arr[2] = 2;
+	
+	int n = 2;
+	arr = (int*) m_realloc(arr, n);
+	printf("%s","Decrease size\n");
+	for(int i=0; i<n;i++){
+		printf("%d ", arr[i]);
+	}
+	
+	// example B: new array > old one
+	arr = (int*) m_realloc(arr, 3);
+	arr[0] = 0;
+	arr[1] = 1;
+	arr[2] = 2;
+	
+	n = 5;
+	arr = (int*) m_realloc(arr, n);
+	printf("%s","\nIncrease size\n");
+	for(int i=0; i<n;i++){
+		printf("%d ", arr[i]);
+	}
+	
+	// example C: old ptr is NULL
+	arr = (int*) m_realloc(arr, 3);
+	arr[0] = 0;
+	arr[1] = 1;
+	arr[2] = 2;
+	arr=NULL;
+	n=3;
+	printf("%s","\nLet ptr be null\n");
+	arr = (int*) m_realloc(arr, n);
+	for(int i=0; i<n;i++){
+		printf("%d ", arr[i]);
+	}
