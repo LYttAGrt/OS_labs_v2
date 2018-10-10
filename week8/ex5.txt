@@ -1,0 +1,8 @@
+// Some text here
+
+Difference between physical and virtual address:
+
+1) Physical address points on real place of memory (disk, cache et.c). Virtual address is, actually, the abstraction of memory that cannot point directly on machine's storage.
+
+2) Since physical address points on disk, it doesn't need to be changed in order to avoid errors. Virtual address, otherwise, should be changed by some way to point on valid memory unit.
+
