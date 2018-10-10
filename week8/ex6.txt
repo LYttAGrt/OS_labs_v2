@@ -1,0 +1,7 @@
+// Some text here
+mem_size(virtual address)	: 2 B  or 16 bits
+page size			: 8 KB or 2^13 bytes
+
+Let's divide address on 3 and 13 bits for page number and offset relatively. Then, page table will contain 8 entries.
+
+// вроде то

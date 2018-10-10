@@ -1,0 +1,40 @@
+user seconds without microseconds: 0
+user microseconds: 0
+total user seconds: 0.000000e+00
+shared memory size, KB: 11140
+user seconds without microseconds: 0
+user microseconds: 3568
+total user seconds: 3.568000e-03
+shared memory size, KB: 21832
+user seconds without microseconds: 0
+user microseconds: 7676
+total user seconds: 7.676000e-03
+shared memory size, KB: 32128
+user seconds without microseconds: 0
+user microseconds: 8215
+total user seconds: 8.215000e-03
+shared memory size, KB: 42424
+user seconds without microseconds: 0
+user microseconds: 8215
+total user seconds: 8.215000e-03
+shared memory size, KB: 52720
+user seconds without microseconds: 0
+user microseconds: 15666
+total user seconds: 1.566600e-02
+shared memory size, KB: 63016
+user seconds without microseconds: 0
+user microseconds: 15964
+total user seconds: 1.596400e-02
+shared memory size, KB: 73048
+user seconds without microseconds: 0
+user microseconds: 19108
+total user seconds: 1.910800e-02
+shared memory size, KB: 83344
+user seconds without microseconds: 0
+user microseconds: 23384
+total user seconds: 2.338400e-02
+shared memory size, KB: 93640
+user seconds without microseconds: 0
+user microseconds: 27669
+total user seconds: 2.766900e-02
+shared memory size, KB: 103936
