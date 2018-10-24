@@ -1,0 +1,12 @@
+итого 16
+-rw-r--r-- 3 alex alex   0 окт 24 17:34 _ex1_1.txt
+-rw-r--r-- 3 alex alex   0 окт 24 17:34 _ex1_2.txt
+-rw-r--r-- 1 alex alex  56 окт 24 17:31 ex1.sh
+-rw-r--r-- 3 alex alex   0 окт 24 17:34 _ex1.txt
+-rw-r--r-- 1 alex alex  86 окт 24 17:35 ex1.txt
+-rw-r--r-- 1 alex alex 157 окт 24 18:08 ex2.sh
+-rw-r--r-- 1 alex alex   0 окт 24 18:06 _ex2.txt
+-rw-r--r-- 1 alex alex   0 окт 24 18:08 ex2.txt
+-rw-r--r-- 1 alex alex 300 окт 24 18:22 ex3.sh
+-rwxrwxrwx 1 alex alex   0 окт 24 18:05 _ex3.txt
+-rw-r--r-- 1 alex alex   0 окт 24 18:22 ex3.txt
