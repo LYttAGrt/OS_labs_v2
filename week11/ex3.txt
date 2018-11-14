@@ -1,0 +1,9 @@
+As I understood, all the idea is in the "\n" symbol.
+
+And looks like, fork() has a side effect to copy the output after last "\n" symbol.
+
+ex3_0:		ex3_1:
+Hello		Hello
+Hello		
+-----		
+		-----

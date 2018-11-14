@@ -1,0 +1,10 @@
+Case 1: recovery(toss resources, return them back) is the best.
+	 Other solution require the time to calculate own models. Still, i think that in real cases modelling or uploading back-ups takes more time than just sharing the taken resources via memory map (and then, other processes can make a progress. such a pretty way). So, in cases, when time cannot be just granted for additional system calculations (what, i think, happens quiet always) but solution has to be provided, recovery is the best way to work.
+	 
+Case 2: prevention (back-ups) is the best.
+	It's the best solution, if process can fail because of memory loss, because: 
+	it doesn't take the used resources, as recovery - what doesn't probably fail other workable processes;
+	it doesn't need to know, how the processes will work as avoidance needs.
+	
+Case 3: avoidance (known in future) is the best.
+	In cases of available information about the work of process, avoidance (via modelling) can be the best way: it's better to prevent the problem before it occurs, than catch it and try to solve. what actually to explain here step-by-step?

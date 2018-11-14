@@ -1,0 +1,41 @@
+ru_RU: если втупую, то хотя бы какого-то отличия hit/miss от ноля можно добиться пятью путями:
+	а: увеличить pagetable
+	б: отсортировать последовательность, под танцы с бубном надеясь, что хоть где-то да найдутся два равных числа (впрочем, на практике нереально)
+	в, самое надёжное: выполнить и а), и б).
+	г: изменить сам алгоритм
+	д: (а) + (г)
+	  
+en_EN: Brainstorm produced five ways of dealing with hit/max=0:
+	a: extend pagetable itself
+	b: sort the sequence (what's practically useless)
+	c: combine A and B
+	d: change the algorithm hoping that something will change
+	e: combine A and D
+
+BOTH: выбираем A / choose A (extend pagetable)
+
+// was
+Enter page_frames number: 8
+Enter test variant: 2
+Test variant (0 for 10, 1 for 50, 2 for 100): 2
+Hit/miss ratio: 0/100
+
+// now
+Enter page_frames number: 16
+Enter test variant: 2
+Test variant (0 for 10, 1 for 50, 2 for 100): 2
+Hit/miss ratio: 1/99
+
+OR choose B (sort the sequence):
+// was
+Enter page_frames number: 8
+Enter test variant: 2
+Test variant (0 for 10, 1 for 50, 2 for 100): 2
+Hit/miss ratio: 0/100
+
+// now
+Enter page_frames number: 8
+Enter test variant: 2
+Test variant (0 for 10, 1 for 50, 2 for 100): 2
+Hit/miss ratio: 4/96
+
