@@ -1,0 +1,6 @@
+Processes waiting on step 0 : 0 1 0 1 0 
+Processes waiting on step 1 : 0 0 0 0 0 
+Processes waiting on step 2 : 0 0 0 0 0 
+Processes waiting on step 3 : 0 0 0 0 0 
+Processes waiting on step 4 : 0 0 0 0 0 
+DEADLOCK PROCESSES: noone

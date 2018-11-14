@@ -1,0 +1,10 @@
+Case 1: recovery is the best.
+	 Other solution require the time to calculate own models. Still, i think that in real cases modelling takes more time than just saving the back-ups in RAM or just killing the process. So, in cases, when time cannot be just granted (actually, always) but solution has to be provided, recovery is the best way 
+	 
+Case 2: prevention is the best.
+	Since it has more chances to be calculated, i think it's the best solution: 
+	it doesn't stop and reset the processes, as recovery does; 
+	it doesn't need to know, how the processes will work as avoidance needs.
+	
+Case 3: avoidance is the best.
+	In cases of available information about the work of process, avoidance (via modelling) can be the best way: it's better to prevent the problem before it occurs, than catch it and try to solve. what actually to explain here step-by-step?
